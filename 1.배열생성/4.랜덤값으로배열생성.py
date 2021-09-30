@@ -40,10 +40,13 @@ print(np.random.normal(3, 2.5, (2, 4)))
 ### random.rand() ###
 # random.rand(d0, d1, ..., dn)
 print(np.random.rand(3, 3))
+print(np.random.rand(2, 2, 2))
+
 
 ### random.randn() ###
 # random.randn(d0, d1, ..., dn)
 print(np.random.randn(3, 3))
+print(np.random.randn(1, 2, 3))
 
 ### random.shuffle() ###
 # random.shuffle(x)
