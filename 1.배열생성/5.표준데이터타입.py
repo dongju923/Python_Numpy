@@ -19,3 +19,4 @@ print(np.ones((3, 3), dtype=bool))
 # 1로된 3X3 배열을 boolean 형태로 출력
 print(np.full((3, 3), 2, dtype=float))
 # 2로된 3X3 배열을 float 형태로 출력
+
